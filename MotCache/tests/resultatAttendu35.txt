@@ -1,0 +1,2 @@
+ABBBB 2 4 S
+AABAA 4 2 E
