@@ -1,2 +1,0 @@
-BCAP 4 9 S
-BCQP 7 6 E

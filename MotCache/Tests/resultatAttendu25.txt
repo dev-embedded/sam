@@ -1,2 +1,0 @@
-ABC 0 0 SE
-DEF 7 9 NO

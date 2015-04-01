@@ -1,8 +1,3 @@
-#include "util.h"
-
-// Compilation : gcc -Wall -std=c99 main.c util.c
-// Ceci est un exemple d'utilisation de util.c
-
 /*
  ============================================================================
  Name        : ctest.c
@@ -19,7 +14,7 @@
 		char ch;
 
 //		if((fp=fopen("e:\\Documents\\Desktop\\motCache\\Tests\\grilleTest1.txt","rt"))==NULL)
-		if((fp=fopen("grilleTest1.txt","rt"))==NULL)
+		if((fp=fopen("grilletest1.txt","rt"))==NULL)
 		{
 			printf("\nCannot open file strike any key exit!");
 			getch();
@@ -33,4 +28,4 @@
 		ch=fgetc(fp);
 		}
 		fclose(fp);
-	}
+	

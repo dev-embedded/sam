@@ -1,2 +1,0 @@
-HOLA 3 3 NE
-CHAO 3 6 SO
